@@ -27,7 +27,7 @@ class App extends Component {
         },
         {
           ID: 4,
-          TITLE: "POR MAIS QUE ESTUDASE MUITO teste",
+          TITLE: "POR MAIS QUE ESTUDASE MUITO",
           BODY: "NAO IMPORTAVA O QUE ELE FAZIA ELE SEMPRE ERA O MELHOR",
         },
       ]
